@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkaftersaleweb"]=self["webpackChunkaftersaleweb"]||[]).push([[708],{7708:function(e,r,n){n.r(r),n.d(r,{default:function(){return c}});var t=n(9003);const o={id:"error"};function i(e,r,n,i,s,u){const a=(0,t.up)("el-empty");return(0,t.wg)(),(0,t.iD)("div",o,[(0,t.Wm)(a,{"image-size":"300px",description:e.$t("HomeView.error")},null,8,["description"])])}var s={name:"error",components:{},data:function(){return{}},mounted(){},methods:{}},u=n(89);const a=(0,u.Z)(s,[["render",i]]);var c=a}}]);
+//# sourceMappingURL=708.cf20cac3.js.map

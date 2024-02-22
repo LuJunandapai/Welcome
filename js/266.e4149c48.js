@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkaftersaleweb"]=self["webpackChunkaftersaleweb"]||[]).push([[266],{1266:function(e,r,t){t.r(r),t.d(r,{default:function(){return o}});var a=t(9003);const n=["src"];function u(e,r,t,u,s,c){return(0,a.wg)(),(0,a.iD)("iframe",{src:e.url,allowfullscreen:"",class:"viewBox"},null,8,n)}var s={name:"apiword",data:function(){return{url:""}},mounted(){this.url="http://121.43.50.177:9010/doc.html#/home"},methods:{}},c=t(89);const l=(0,c.Z)(s,[["render",u],["__scopeId","data-v-56da43c4"]]);var o=l}}]);
+//# sourceMappingURL=266.e4149c48.js.map
